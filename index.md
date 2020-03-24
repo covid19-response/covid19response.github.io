@@ -58,7 +58,7 @@
 
 <div style="padding-top: 30px;">
 <p align='center'>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScOq05zS0e0bfOKNnGfQ2LvClgvZZDB6Glne-n1fVutflt9DQ/viewform" class="getSupplies">Get Supplies</a>
+<a href="https://airtable.com/shr44orRURbK2vR79" class="getSupplies">Get Supplies</a>
 </p>            
 </div>
 
@@ -98,7 +98,7 @@
 <h3>Supply Request form for practitioners</h3>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOq05zS0e0bfOKNnGfQ2LvClgvZZDB6Glne-n1fVutflt9DQ/viewform?embedded=true" width="640" height="1587" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<p>note: this is a quick (working) site to highlight the major components of a donation system, this is not (even close to) the final design contact, Kyle @ kyle@wendlink.com, look out for eachother and stay safe</p>
+<p>note: this is a quick (working) site to highlight the major components of the direct medical supply donation system, this is not (even close to) the final design. Look out for eachother, stay safe, flatten the curve - Kyle x-c19@wendlink.com</p>
 </div>
     
 </html>
