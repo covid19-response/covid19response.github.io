@@ -49,34 +49,42 @@
     
 </head>
 <body>
-<img src="wewill.jpg" width="1100"  alt="COVID-19 crisis directly donate" class="center">
-		
-<p align='center'>
+<img src="wewill.jpg" width="1100"  alt="COVID-19 crisis directly donate" align="center">
 
+<div style="padding-top: 30px;">
+<p align='center'>
 <a href="https://airtable.com/shr8A53ZWVI1A3SLO" class="donateSupplies">Donate Supplies</a>
 </p>
+</div>
 
+<div style="padding-top: 30px;">
 <p align='center'>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScOq05zS0e0bfOKNnGfQ2LvClgvZZDB6Glne-n1fVutflt9DQ/viewform" class="getSupplies">Get Supplies</a>
 </p>            
+</div>
 
+<div style="padding-top: 30px;">
 <h3  align='center'>Help a practitioner. Donate directly. 😷👩‍⚕️🌡🚑</h3>
-		
+</div>
+
+<div style="padding-top: 30px;">
+
 <h3>Lastest Supply Requests</h3>
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrn7Nrn1mKzWglXe?backgroundColor=teal&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>    </body>
+</div>
 
-<div class="Box-body">
+<div class="Box-body" style="padding-top: 30px;">
         <article class="markdown-body entry-content p-5" itemprop="text">
 		<p>How it works</p>
 	<p>If you are a practioner or hospital administrator in need medical supplies click 'get supplies' and your request will be shared with donors</p>	
 	<p>If you have medical supplies to donate, click 'donate' above</p>
 </article>
-      </div>
+</div>
 	
 	
-	
-<h1>U+1F469</h1><h1>.</h1><h1>.</h1><h1>.</h1>
-	<p>in progress scratch content...</p>	
+<div style="padding-top: 100px;">
+<h1>.</h1><h1>.</h1><h1>.</h1><h1>.</h1>
+	<p>below is progress scratch content...</p>	
 
 <span>Connect directly with medical practioners on the front lines and ship them the supplies they need to fight COVID-19 pandemic</span>
 	
@@ -92,6 +100,6 @@
 
 
     <p>note: this is a quick (working) site to highlight the major components of a donation system, this is not (even close to) the final design contact, Kyle @ kyle@wendlink.com, look out for eachother and stay safe</p>
-    
+</div>
     
 </html>
