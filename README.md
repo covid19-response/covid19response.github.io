@@ -1,3 +1,5 @@
-# kyle-wendling.github.io
+# covid19response.github.io
 
-personal site for Kyle Wendling
+Quick site to for direct community donations project
+
+for questions reach out to Kyle Wendling (x - github @ wendlink.com
