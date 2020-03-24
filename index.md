@@ -64,9 +64,14 @@
 <h3>Lastest Supply Requests</h3>
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrn7Nrn1mKzWglXe?backgroundColor=teal&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>    </body>
 
-	<p>How it works</p>
+<div class="Box-body">
+        <article class="markdown-body entry-content p-5" itemprop="text">
+		<p>How it works</p>
 	<p>If you are a practioner or hospital administrator in need medical supplies click 'get supplies' and your request will be shared with donors</p>	
 	<p>If you have medical supplies to donate, click 'donate' above</p>
+</article>
+      </div>
+	
 	
 	
 <h1>U+1F469</h1><h1>.</h1><h1>.</h1><h1>.</h1>
