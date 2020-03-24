@@ -74,14 +74,14 @@
 </div>
 
 <div class="Box-body" style="padding-top: 30px;">
-        <article class="markdown-body entry-content p-5" itemprop="text">
-		<p>How it works</p>
-	<p>If you are a practioner or hospital administrator in need medical supplies click 'get supplies' and your request will be shared with donors</p>	
-	<p>If you have medical supplies to donate, click 'donate' above</p>
+<article class="markdown-body entry-content p-5" itemprop="text">
+<h3>Fighting Covid19 with community, how it works</h3>
+<p>If you have medical supplies to share, click 'donate' above</p>
+<p>If you are a medical practioner, hospital administrator, first responder, or similar, in need medical supplies, click 'get supplies' to share your request with community donors</p>	
 </article>
 </div>
 	
-	
+
 <div style="padding-top: 100px;">
 <h1>.</h1><h1>.</h1><h1>.</h1><h1>.</h1>
 	<p>below is progress scratch content...</p>	
