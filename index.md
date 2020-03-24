@@ -44,11 +44,25 @@
 	position:relative;
 	top:1px;
 }
+#header{
+    width:100%;
+    text-align:center;
+    border:1px solid grey;
+}
+img{
+    display:inline-block;
+    height:50px;
+    margin: 0 auto;
+}
 </style>
-    
+
+<title>COVID-19 Community Response Project</title>    
 </head>
 <body>
-<img src="wewill.jpg" width="1100"  alt="COVID-19 crisis directly donate" align="center">
+<div id="header">
+        <img src="wewill.jpg" width="1100"  alt="COVID-19 Community Response Project donate medical supplies directly"/>  
+    </div>	
+
 
 <div style="padding-top: 30px;">
 <p align='center'>
@@ -76,8 +90,8 @@
 <div class="Box-body" style="padding-top: 30px;">
 <article class="markdown-body entry-content p-5" itemprop="text">
 <h3>Fighting Covid-19 with community, how it works</h3>
-	<p>If you <a href="https://airtable.com/shr8A53ZWVI1A3SLO" class="donateSupplies">can donate</a> <b>in-demand <b>medical supplies</b> (see above) that our nurses, doctors, and first responders need to stay safe to keep treating patients, please <a href="https://airtable.com/shr8A53ZWVI1A3SLO" class="donateSupplies">let providers know what you can donate</a>, and you'll receive information on where to <i>directly</i> ship your donation.</p>
-<p>If you are a <b>medical provider or practitioner</b> in need of scare supplies, go here <a href="https://airtable.com/shr44orRURbK2vR79" class="getSupplies">'get supplies'</a> to share your request, community donors will start shipping requested equipment directly to you.</p>
+	<p>If you <a href="https://airtable.com/shr8A53ZWVI1A3SLO">can donate</a> <b>in-demand <b>medical supplies</b> (see above) that our nurses, doctors, and first responders need to stay safe to keep treating patients, please <a href="https://airtable.com/shr8A53ZWVI1A3SLO">let providers know what you can donate</a>, and you'll receive information on where to <i>directly</i> ship your donation.</p>
+<p>If you are a <b>medical provider or practitioner</b> in need of scare supplies, go here <a href="https://airtable.com/shr44orRURbK2vR79">'get supplies'</a> to make a request. Donors will start shipping requested equipment directly to you.</p>
 	
 <p>This site serves only as a way only to connect medical needs with community supply. All dontations, like N95 masks, will be sent directly from  donors to hospitals and practioners in need, per their specific shipping directions.</p>
 </article>
