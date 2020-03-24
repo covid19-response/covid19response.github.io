@@ -66,9 +66,11 @@
 <h3  align='center'>Help a practitioner. Donate directly. 😷👩‍⚕️🌡🚑</h3>
 </div>
 
-<div style="padding-top: 30px;">
+<div class="Box-body" style="padding-top: 30px;">
+<article class="markdown-body entry-content p-5" itemprop="text">
 <h3>Lastest requests</h3>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrn7Nrn1mKzWglXe?backgroundColor=teal&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>    </body>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrn7Nrn1mKzWglXe?backgroundColor=teal&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>   
+</article>
 </div>
 
 <div class="Box-body" style="padding-top: 30px;">
@@ -100,5 +102,6 @@
 
 <p>note: this is a quick (working) site to highlight the major components of the direct medical supply donation system, this is not (even close to) the final design. Look out for eachother, stay safe, flatten the curve - Kyle x-c19@wendlink.com</p>
 </div>
-    
+
+</body>
 </html>
