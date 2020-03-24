@@ -75,12 +75,18 @@
 
 <div class="Box-body" style="padding-top: 30px;">
 <article class="markdown-body entry-content p-5" itemprop="text">
-<h3>Fighting Covid19 with community, how it works</h3>
-<p>If you have medical supplies to share, click 'donate' above</p>
-<p>If you are a medical practioner, hospital administrator, first responder, or similar, in need medical supplies, click 'get supplies' to share your request with community donors</p>	
+<h3>Fighting Covid-19 with community, how it works</h3>
+<p>If you have medical supplies to share with providers on the front lines, click 'donate' above to connect with a provider in need, you will be able to <i>directly ship</i> your donation to a hospital in need.</p>
+<p>If you are a medical provider in need medical supplies, click 'get supplies' to share your request with community donors</p>	
 </article>
 </div>
 	
+<div class="Box-body" style="padding-top: 30px;">
+<article class="markdown-body entry-content p-5" itemprop="text">
+<h3>I have more questions / This is great, I want to help!</h3>
+<p>This direct donation system is functional, but the site was built in less than a day and I'm busy connecting practioners to community suppliers, so I have not had time to flush-out the content, especially disclaimers etc, please reach out to me directly, Kyle Wendling, at x - covid19response @ wendlink.com if you would like to volunteer to help with logistics, systems, or admin, or if you have questions.</p>	
+</article>
+</div>
 
 <div style="padding-top: 100px;">
 <h1>.</h1><h1>.</h1><h1>.</h1><h1>.</h1>
