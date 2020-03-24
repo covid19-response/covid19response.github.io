@@ -74,8 +74,8 @@
 <div class="Box-body" style="padding-top: 30px;">
 <article class="markdown-body entry-content p-5" itemprop="text">
 <h3>Fighting Covid-19 with community, how it works</h3>
-<p>If you have medical supplies to share with providers on the front lines, click 'donate' above to connect with a provider in need, you will be able to <i>directly ship</i> your donation to a hospital in need.</p>
-<p>If you are a medical provider in need medical supplies, click 'get supplies' to share your request with community donors</p>
+	<p>If you <a href="https://airtable.com/shr8A53ZWVI1A3SLO" class="donateSupplies">can donate</a> <b>in-demand <b>medical supplies</b> (see above) that our nurses, doctors, and first responders need to stay safe to keep treating patients, please <a href="https://airtable.com/shr8A53ZWVI1A3SLO" class="donateSupplies">let providers know what you can donate</a>, and you'll receive information on where to <i>directly</i> ship your donation.</p>
+<p>If you are a <b>medical provider or practitioner</b> in need of scare supplies, go here <a href="https://airtable.com/shr44orRURbK2vR79" class="getSupplies">'get supplies'</a> to share your request, community donors will start shipping requested equipment directly to you.</p>
 	
 <p>This site serves only as a way only to connect medical needs with community supply. All dontations, like N95 masks, will be sent directly from  donors to hospitals and practioners in need, per their specific shipping directions.</p>
 </article>
